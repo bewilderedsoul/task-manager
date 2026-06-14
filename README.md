@@ -4,6 +4,15 @@ A full-stack task management application: a **Go** REST API backed by **PostgreS
 
 > Built for the Rival Full-Stack Developer Assessment.
 
+## Live demo
+
+| | URL |
+| --- | --- |
+| **Frontend** (Vercel) | https://task-manager-three-nu-41.vercel.app |
+| **Backend API** (Render) | https://task-manager-api-ycxu.onrender.com |
+
+> **Note:** the backend runs on Render's free tier, which sleeps after ~15 minutes of inactivity. The first request after it wakes can take ~30–50 seconds; subsequent requests are fast. Just sign up and start — if the first action hangs briefly, that's the cold start.
+
 ---
 
 ## Table of contents
