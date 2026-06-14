@@ -1,0 +1,21 @@
+# Env files
+.env
+.env.local
+*.env.local
+
+# Backend
+backend/bin/
+backend/server
+backend/server.exe
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log

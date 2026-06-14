@@ -1,0 +1,14 @@
+# Env files (never commit real secrets)
+.env
+.env.local
+
+# Build output (anchored to the backend root so we don't match internal/server)
+/bin/
+/tmp/
+/server
+/server.exe
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
